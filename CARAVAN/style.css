@@ -226,3 +226,16 @@ footer {
 .footer-text {
   color: #fff;
 }
+
+.social i{
+  color: black;
+}
+
+@media screen and (max-width: 425px) {
+  .main-visual-content {
+    width: 100%;
+  }
+
+.nav-list-item {
+  display: block;
+}
